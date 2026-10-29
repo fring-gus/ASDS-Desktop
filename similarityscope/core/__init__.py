@@ -1,0 +1,1 @@
+# SimilarityScope — Core package
